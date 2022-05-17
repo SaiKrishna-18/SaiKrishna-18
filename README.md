@@ -1,9 +1,11 @@
 # Hello Everyone  👋 #
 *** This repositories contains the Projects that I usually do for my Hands-on learning purposes and this is just a duplicate repo which I use to track how many projects that I have done.  ***
-<ol>
-  <li> First item </li>
-  <li> second item </li>
-</ol>
+* This is the first list item.
+* Here's the second list item.
+
+    I need to add another paragraph below the second list item.
+
+* And here's the third list item.
 
 
 <!--
