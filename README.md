@@ -1,5 +1,8 @@
 # Hello Everyone  👋 #
 ### This repositories contains the Projects that I usually do for my Hands-on learning purposes and this is just a duplicate repo which I use to track how many projects that I have done.  
+This is the new way of documenting the Projects 
+**This Repo contains the projects** 
+*This also contains a documentation*
 
 <!--
 **SaiKrishna-18/SaiKrishna-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
