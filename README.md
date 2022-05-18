@@ -12,11 +12,13 @@ This is the link to the website [Google](https://www.google.com/)
 
 -MacOS
 
+1.Package manager
+
 1.Operating system
 
 1.Kernel
 
-1.Package manager
+
 
 
 
