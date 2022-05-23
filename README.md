@@ -1,13 +1,13 @@
 # Hello Everyone  👋 #
 ### This repositories contains the Projects that I usually do for my Hands-on learning purposes and this is just a duplicate repo which I use to track how many projects that I have done.  
 
-This is a normal text 
+Linux 
 
-**This is bold text**
+**Linux**
 
-*This is italic text*
+*Linux*
 
-This is the link to the website [Google](https://www.google.com/)
+This is the link to the website [Linux Foundation Blogs](https://training.linuxfoundation.org/blog/)
 ![Linux](https://prod-discovery.edx-cdn.org/media/course/image/9efb5a34-0460-4fb3-b08d-9b0f7392765c-05e3ede66f26.png)
 -Linux
 
@@ -25,15 +25,15 @@ This is the link to the website [Google](https://www.google.com/)
 - [ ] Version control 
 - [ ] Docker
 
-- item 1
+- Linux 
 
-  - item 1A
+  - RedHat
   
-  - item 1B
+  - Debian
   
-- item 2
+- Windows
 
-- item 3
+- MacOS
 
 | column 1 | column 2 | column 3 |
 | :---: | :---: | :---: |
